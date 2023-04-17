@@ -1,1 +1,3 @@
-header( 'Location: umamusume://m.cafe.daum.net/umamusume-kor/_rec' );
+<head>
+  <meta http-equiv="refresh" content="0;URL='/main.do'" />
+</head>
